@@ -1,0 +1,40 @@
+{
+  "name": "luxurybot",
+  "description": "A discord bot for didney worl who has an appetite for non-nutritive substances",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+     "discord.js": "^11.3.0",
+    "dotenv": "^4.0.0",
+    "googleapis": "^20.2.0",
+    "node-opus": "^0.2.7",
+        "request": "2.81.0",
+    "simple-youtube-api": "^5.0.1",
+    "youtube-node": "^1.3.2",
+    "ytdl-core": "^0.20.2",
+    "ms": "^2.0.0",
+    "dateformat": "^3.0.3",
+    "fs": "^0.0.2",
+    "moment": "^2.21.0",
+    "colors": "^1.1.2",
+    "embed": "^0.0.1",
+    "pretty-ms": "^3.1.0",
+    "random-number": "^0.0.9",
+    "goo.gl": "^0.1.4",
+    "canvas": "^1.5.0",
+    "jimp": "^0.2.28",
+    "xml2js": "^0.1.13",
+    "quick.db": "^2.0.7",
+    "sodium": "^2.0.3",
+    "uws": "^9.14.0",
+    "stream-to": "^2.0.0",
+    "bufferutil": "^3.0.3",
+    "libsodium-wrappers": "^0.5.4",
+    "opusscript": "^0.0.6",
+    "sqlite": "^2.9.1",
+    "short-number": "^1.0.6"
+  }
+}
